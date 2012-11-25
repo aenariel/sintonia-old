@@ -114,7 +114,7 @@ window.fbAsyncInit = function () {
             //         feed.refresh();
             //     }
             // }, { scope: 'read_stream' });
-            window.location = "https://www.facebook.com/dialog/oauth/?client_id=301159986660698&redirect_uri=http://aenariel.no-ip.org/default.htm&scope=read_stream";
+            window.location = "https://www.facebook.com/dialog/oauth/?client_id=301159986660698&redirect_uri=http://aenariel.github.com/sintonia/default.htm&scope=read_stream";
         }
     });
 };
